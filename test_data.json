@@ -1,0 +1,22 @@
+[
+	{
+		"firstName": "Kyle",
+		"lastName": "Gifford",
+		"hobbies": [
+			"programming JavaScript",
+			"traveling the world",
+			"watching baseball games",
+			"drinking Scotch"
+		]
+	},
+	{
+		"firstName": "Mick",
+		"lastName": "McGrath",
+		"hobbies": [
+			"programming JavaScript",
+			"playing basketball",
+			"driving his camper",
+			"going on hikes"
+		]
+	}
+]
